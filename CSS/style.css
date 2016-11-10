@@ -1,0 +1,20 @@
+@import url(reset.css);
+
+body {
+  background: #333;
+  padding: 10px;
+}
+
+body div {
+
+  border:2px solid red;
+  width: 200px;
+  height: auto;
+}
+
+div div {
+  width: 150px;
+  /*height: ;*/
+  margin:10px;
+  border-color: yellow;
+}
